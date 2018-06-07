@@ -1,10 +1,11 @@
-# Rhythm Game Built On Unreal 4
+# Rhythm Track
+
+Built on Unreal 4
 
 # How To Install
 1. Extract Files 
-2. Run ExcellentInstallerTbh.sh
-3. Run ExcellentGame.exe 
-4. Play Game
+2. Run InstallScript.sh
+3. Run RhythmTrack.exe and play game
 
 # Installer only works if bash installed. 
 To manually install:
