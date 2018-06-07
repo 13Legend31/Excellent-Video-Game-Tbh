@@ -14,5 +14,6 @@ To manually install:
 2. Run ExcellentGame.exe and play game
 
 # Source Code Files in SourceFiles folder
+Written in C++ within the Unreal 4 framework
 Game does not need content from SourceFiles to run
 # Work In Progress
