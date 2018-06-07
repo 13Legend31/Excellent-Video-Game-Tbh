@@ -10,8 +10,8 @@ Built on Unreal 4
 
 # Installer only works if bash installed. 
 To manually install:
-1. Go to .../Excellent-Video-Game-Tbh-master\DontCrash\Content\Paks and unzip contents of PakFile into this folder
-2. Run ExcellentGame.exe and play game
+1. Go to .../RhythmGame\DontCrash\Content\Paks and unzip contents of PakFile into this folder
+2. Run RhythmTrack.exe and play game
 
 # Source Code Files in SourceFiles folder
 Written in C++ within the Unreal 4 framework
