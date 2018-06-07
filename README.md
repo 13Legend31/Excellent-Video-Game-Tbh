@@ -18,5 +18,4 @@ Written in C++ within the Unreal 4 framework
 <br>
 Game does not need content from SourceFiles to run
 <br>
-DontCrash is the project name but RhythmTrack is the finished game name
-# Work In Progress
+DontCrash is the unreal 4 project name but RhythmTrack is the finished game name
