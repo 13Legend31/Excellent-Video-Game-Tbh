@@ -12,4 +12,6 @@ To manually install:
 1. Go to .../Excellent-Video-Game-Tbh-master\DontCrash\Content\Paks and unzip contents of PakFile into this folder
 2. Run ExcellentGame.exe and play game
 
+# Source Code Files in SourceFiles folder
+Game does not need content from SourceFiles to run
 # Work In Progress
