@@ -9,7 +9,7 @@ Built on Unreal 4
 
 # Installer only works if bash installed. 
 To manually install:
-1. Go to .../RhythmGame\DontCrash\Content\Paks and unzip contents of PakFile into this folder
+1. Go to ...\RhythmGame\DontCrash\Content\Paks and unzip contents of PakFile into this folder
 2. Run RhythmTrack.exe and play game
 
 # Source Code Files in SourceFiles folder
